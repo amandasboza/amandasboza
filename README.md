@@ -8,8 +8,8 @@ Estudando HTML, CSS e JavaScrip para conquistar meu espaço como desenvolvedor F
 Internacionalista, bilígue & especialista em CS e CX.
 <br>
 <p>
-<a href="https://linkedin.com/in/muhammad-arham-8b376720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-arham-8b376720b" height="30" width="40" /></a>
-<a href="https://instagram.com/arham.8x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arham.8x" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amanda-azevedo-da-silva-boza-7258b1118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="No Call" height="30" width="40" /></a>
+<a href="https://instagram.com/amandasboza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="No Call" height="30" width="40" /></a>
   </p>
 
    <div align="center">
