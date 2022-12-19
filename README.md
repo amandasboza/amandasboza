@@ -19,7 +19,7 @@ Internacionalista, bilígue & especialista em CS e CX.
 
 
 
-<h2 align="center"> &#x1f4c8; Languages & stats:</h2>
+<h2 align="center"> &#x1f4c8; Languages & Stats:</h2>
 
 <div>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
