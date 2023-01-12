@@ -4,7 +4,7 @@ Olá, aqui é <b>@amandasboza</b>
 🌱 Frond-End Develops (HTML/CSS)<br>
 Desenvolvedor Frond-End (HTML/CSS)</p>
   
-Estudando HTML, CSS e JavaScrip para conquistar meu espaço como desenvolvedor Front-End<br>
+Estudando HTML, CSS e JavaScript para conquistar meu espaço como desenvolvedor Front-End<br>
 Internacionalista, bilígue & especialista em CS e CX.
 <br>
 <p>
