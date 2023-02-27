@@ -1,10 +1,9 @@
 <h1>👋 Hi, I’m <b>@AmandasBoza</b></h1>
 Olá, aqui é <b>@amandasboza</b>
 <p>
-🌱 Frond-End Develops (HTML/CSS)<br>
-Desenvolvedor Frond-End (HTML/CSS)</p>
+🌱 Frond-End (Javascript)<br>
+Desenvolvedor Frond-End (Javascript)</p>
   
-Estudando HTML, CSS e JavaScript para conquistar meu espaço como desenvolvedor Front-End<br>
 Internacionalista, bilígue & especialista em CS e CX.
 <br>
 <p>
