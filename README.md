@@ -1,10 +1,8 @@
 <h1>Hello folks, Amanda here 👋</b></h1>
 
 <ur>
-  <li>I'm a front-end developer programming using mainly HTML5, CSS3 and JavaScript;</li>
   <li>Studying and making progress in Mobile: Android (Java and Kotlin);</li>
   <li> Graduating in Bachelor of Software Engineering;</li>
-  <li>My professional profile: LinkedIn.</li>
   
 <br>
 </p>
